@@ -1,0 +1,14 @@
+{
+  "Artem1": [
+    "Kirill2",
+    "Denis"
+  ],
+  "Kirill2": [
+    "Artem1",
+    "Denis"
+  ],
+  "Denis": [
+    "Kirill2",
+    "Artem1"
+  ]
+}

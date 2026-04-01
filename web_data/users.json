@@ -1,0 +1,29 @@
+{
+  "Kirill2": {
+    "username": "Kirill2",
+    "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "created_at": "2026-03-31 20:53:44",
+    "status": "online",
+    "last_seen": "2026-04-01 10:59:51"
+  },
+  "Artem1": {
+    "username": "Artem1",
+    "password_hash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "created_at": "2026-03-31 20:54:25",
+    "status": "offline",
+    "last_seen": "2026-04-01 10:59:48",
+    "bio": "ишак\n",
+    "phone": "",
+    "avatar": "/api/files/avatar_Artem1.png"
+  },
+  "Denis": {
+    "username": "Denis",
+    "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "created_at": "2026-03-31 21:32:55",
+    "status": "offline",
+    "avatar": "https://ui-avatars.com/api/?background=667eea&color=fff&name=D",
+    "last_seen": "2026-04-01 10:57:47",
+    "bio": "",
+    "phone": ""
+  }
+}

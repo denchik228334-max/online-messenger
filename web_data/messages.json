@@ -1,0 +1,35 @@
+[
+  {
+    "id": "840c277e-fdc1-4d47-9d5c-908a468190d8",
+    "sender": "Kirill2",
+    "receiver": "Denis",
+    "content": "сап",
+    "type": "text",
+    "timestamp": "11:00:06",
+    "date": "2026-04-01",
+    "status": "sent",
+    "is_read": false
+  },
+  {
+    "id": "fcdf3d96-cffe-49e1-b6aa-5f3dec1d2ad5",
+    "sender": "Kirill2",
+    "receiver": "Kirill2",
+    "content": "ку",
+    "type": "text",
+    "timestamp": "11:00:12",
+    "date": "2026-04-01",
+    "status": "read",
+    "is_read": true
+  },
+  {
+    "id": "86457dc1-1aa3-4f34-9d05-553f8f55e72c",
+    "sender": "Kirill2",
+    "receiver": "Artem1",
+    "content": "сап",
+    "type": "text",
+    "timestamp": "11:00:24",
+    "date": "2026-04-01",
+    "status": "sent",
+    "is_read": false
+  }
+]
